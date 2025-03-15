@@ -9,17 +9,17 @@ Please do NOT remove this credit, unless your coding becomes unrecognizable from
 /* BACKGROUND */
 
 body {
-	background: url('https://i.ibb.co/CV9fhQQ/yesyes.jpg') center center fixed;
+	background: url('https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvcGQyMC00NC0wMS0wMS1qal8yLmpwZw.jpg') center center fixed;
 	background-size: 100%;
 	font-family: CSS FONT HERE;
-	color: #A3CE76;
+	color: #080807;
 }
 
 /* MAIN PANEL */
 
 /* RIGHT SIDE */
 .container.main {
-	background: rgba(25,35,16,0.5);
+	background: url('https://freerangestock.com/sample/120736/white-and-grey-marble-abstract-texture.jpg');
 	border: none;
 	box-shadow: none;
 	border-radius: 0px
