@@ -140,10 +140,22 @@ button.button, button.button:hover {
 }
 
 /* link color in the alerts */
-.alert a,
-.alert-warning a,
-.alert-danger a{
+
+.alert a:link,
+.alert a:visited,
+.alert-warning a:link,
+.alert-warning a:visited,
+.alert-danger a:link,
+.alert-danger a:visited
+{
     color: #ff0000;
+}
+
+.alert a:hover,
+.alter-warning a:hover,
+.alter-danger a:hover,
+{
+	color: #a61205 !important
 }
 
 /* BIGGEST HEADER ("___"'s DEN) */
