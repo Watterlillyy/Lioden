@@ -501,14 +501,14 @@ a:hover {
 /* BACKGROUND */
 
 ::-webkit-scrollbar-track {
-	background: #3A4D29
+	background: #d4d3c9
 }
 
 
 /* "THUMB" */
 
 ::-webkit-scrollbar-thumb {
-	background: #2c3b1c;
+	background: url('https://freerangestock.com/thumbnail/123031/abstract-golden-paint-texture.jpg');
 	border-radius: 0px
 }
 
