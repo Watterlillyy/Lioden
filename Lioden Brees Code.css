@@ -253,7 +253,7 @@ button#label_currentChannel /* Channel Button ie. Main, Sales */ {
 .top,
 .bottom,
 th {
-	background: #2b3622 !important;
+	background: #56693d !important;
 	color: #080807 !important;
 	border-radius: 0px
 }
@@ -291,7 +291,7 @@ td.right {
 
 .cave-grid,
 .mound-grid {
-	background: #2b3622;
+	background: #56693d;
 	border: none !important;
 	border-radius: 0px !important
 }
@@ -337,7 +337,7 @@ textarea {
 /* ACCOUNT OPTIONS PANELS  (Friend Requests Toggles, etc.) */
 
 .item-header {
-	background: #d4d3c9 !important;
+	background: #c4a90c !important;
 	color: #080807  !important;
 	border-radius: 0px !important;
 }
