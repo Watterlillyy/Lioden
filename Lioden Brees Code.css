@@ -333,7 +333,7 @@ div.left {
 input,
 select,
 textarea {
-	background: url('https://freerangestock.com/thumbnail/133236/grey-and-white-horizontal-marble-texture.jpg') !important;
+	background: #d4d3c9 !important;
 	border: none
 	border-radius: 0px !important;
 	color: #080807 !important;
@@ -400,7 +400,7 @@ a:hover {
 
 .smallbox {
 	float: left;
-	background: #a50cc4;
+	background: #a2c3b1c;
 	color: #A3CE76;
 	padding: 10px;
 	border: 3px dotted #161f0e;
@@ -552,14 +552,14 @@ Please do not remove credit
 */
 /* GOLD BEETLE */
 img[src$="gold.png"] {
-    content:url('LINK')!important;
+    content:url('https://static.lioden.com/img/layout/icon-season-dry.png')!important;
     width:20px!important;
  
 }
  
 /* SILVER BEETLE */
 img[src$="silver.png"] {
-    content:url('https://static.lioden.com/img/layout/icon-season-dry.png')!important;
+    content:url('https://static.lioden.com/img/layout/icon-time-night.png')!important;
     width:20px!important;
  
 }
