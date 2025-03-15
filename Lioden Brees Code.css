@@ -338,7 +338,7 @@ textarea {
 
 .item-header {
 	background: #2c3b1c !important;
-	color: #A3CE76  !important;
+	color: #080807  !important;
 	border-radius: 0px !important;
 }
 
@@ -369,13 +369,13 @@ div.container.footer.center.white.visible-lg.visible-md.visible-sm, div.containe
 
 a:link,
 a:visited {
-	color: #A3CE76 !important
+	color: #c4a90c !important
 }
 
 /* LINK HOVER COLOR */
 
 a:hover {
-	color: #bedc9f !important
+	color: #bdba5e!important
 }
 
 
@@ -393,7 +393,7 @@ a:hover {
 
 .smallbox {
 	float: left;
-	background: #2c3b1c;
+	background: #a50cc4;
 	color: #A3CE76;
 	padding: 10px;
 	border: 3px dotted #161f0e;
