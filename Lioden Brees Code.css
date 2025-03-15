@@ -142,7 +142,7 @@ button.button, button.button:hover {
 /* BIGGEST HEADER ("___"'s DEN) */
 
 h1 {
-	color: #A3CE76;
+	color: #c4a90c;
 	font-size: 90px;
 	text-align: center;
         font-family: 'FONT NAME'
@@ -152,7 +152,7 @@ h1 {
 /* MEDIUM HEADER */
 
 h2 {
-	color: #A3CE76;
+	color: #c4a90c;
 	font-size: 24px;
 	text-align: center
 }
@@ -161,21 +161,21 @@ h2 {
 /* SMALL HEADER */
 
 h3 {
-	color: #A3CE76 !important;
+	color: #c4a90c !important;
 	font-size: 14px !important
 }
 
 /* RIGHT SIDE PANEL HEADER */
 
 .sidebar h3 {
-	color: #A3CE76 !important;
+	color: #c4a90c !important;
         font-size: 26px !important;
         font-family: 'FONT NAME'
 }
 
 /* RIGHT SIDE PANELS */
 .panel {
-	background: #3A4D29 !important;
+	background: url('https://freerangestock.com/thumbnail/120241/white-ceramic-tile-abstract-texture.jpg') !important;
 	box-shadow: none !important;
 	border: 3px dotted #161f0e !important;
 	color: #A3CE76 !important;
@@ -351,11 +351,11 @@ textarea {
 /* ACCOUNT OPTIONS ON/OFF TOGGLE SWITCH */
 
 div.slider.round /* Background */ {
-	background: #324721 !important
+	background: #d4d3c9 !important
 }
 
 div.slider.round::before /* Circle Part */ {
-	background: #4D6636 !important
+	background: #c4a90c !important
 }
 
 /* Copyright, Terms of Service, CoC, etc. */
