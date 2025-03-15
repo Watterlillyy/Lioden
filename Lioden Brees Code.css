@@ -70,22 +70,22 @@ body {
 /* BREADCRUMB (Home / Den) */
 
 .breadcrumb {
-	background: #3A4D29 !important;
-        border: 3px dotted #161f0e;
+	background: url('https://freerangestock.com/thumbnail/123031/abstract-golden-paint-texture.jpg') !important;
+        border: 3px solid #c4a90c;
 	border-radius: 5px
 }
 
 /* BREADCRUMB TEXT */
 
 .breadcrumb .active {
-	color: #A3CE76
+	color: #080807
 }
 
 /* CSS CREDIT */
 
 .breadcrumb::after {
         content: "CSS by Kyrie #169252";
-        color: #A3CE76;
+        color: #080807;
         position: absolute;
         right: 13%; /* (This may need adjusting) */
         z-index: 100
@@ -112,20 +112,20 @@ body {
 /* BOOKMARK BUTTON */
 
 input.floatright, input.floatright:hover {
-	background: #2c3b1c !important;
+	background: #d4d3c9 !important;
         border: none
 	border-radius: 5px;
-	color: #A3CE76 !important;    
+	color: #080807 !important;    
 }
 
 /* SWITCH ACCOUNT BUTTON */
 
 button.button, button.button:hover {
-	background: #2c3b1c;
-        border: 3px dotted #161f0e !important;
+	background: #d4d3c9;
+        border: 3px Solid #c4a90c !important;
 	border-radius: 5px;
         text-shadow: none !important;
-	color: #A3CE76 !important
+	color: #080807 !important
 }
 
 /* ALERTS (ie. "Your lionesses have returned from hunting!") */
@@ -133,9 +133,9 @@ button.button, button.button:hover {
 .alert,
 .alert-warning,
 .alert-danger {
-	background: #3A4D29 !important;
-	border: 3px dotted #161f0e;
-	color: #A3CE76;
+	background: url('https://freerangestock.com/thumbnail/123031/abstract-golden-paint-texture.jpg') !important;
+	border: 3px solid #c4a90c;
+	color: #63120b;
 	border-radius: 5px !important;
 }
 
@@ -184,7 +184,7 @@ h3 {
 
 /* ENERGY BAR BACKGROUND */
 .progress {
-	background: #d4d3c9;
+	background: #bdba5e;
 	color: #080807!important;
 	border-radius: 0px !important
 }
