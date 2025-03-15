@@ -139,6 +139,13 @@ button.button, button.button:hover {
 	border-radius: 5px !important;
 }
 
+/* link color in the alerts */
+.alert a,
+.alert-warning a,
+.alert-danger a{
+    color: #ff0000;
+}
+
 /* BIGGEST HEADER ("___"'s DEN) */
 
 h1 {
