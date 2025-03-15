@@ -530,6 +530,15 @@ table#player img {
 	opacity: 1
 }
 
+/* Floating Image in bottom right corner */
+#float2 {
+	background: url('https://i.imgur.com/lWvWR5P.png');
+	width: 150px;
+	height: 300px;
+	bottom: 10px;
+	right: 20px;
+}
+
 
 /* LIODEN LOGO REPLACER */
 
