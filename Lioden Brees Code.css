@@ -397,6 +397,26 @@ a:hover {
 	color: #fddc5c !important
 }
 
+/* Default link color */
+a:link,
+a:visited {
+    color: #c4a90c !important;
+}
+
+/* Default link hover color */
+a:hover {
+    color: #fddc5c !important;
+}
+
+/* Link color in alerts */
+.alert a:link,
+.alert a:visited {
+    color: #ff0000 !important;
+}
+
+.alert a:hover {
+    color: #a61205 !important;
+}
 
 /* BOX CONTAINER */
 
