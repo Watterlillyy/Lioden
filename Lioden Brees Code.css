@@ -133,8 +133,8 @@ button.button, button.button:hover {
 .alert,
 .alert-warning,
 .alert-danger {
-	background: #56693d !important;
-	border: 10px solid #a61205;
+	background: url('https://freerangestock.com/thumbnail/123031/abstract-golden-paint-texture.jpg') !important;
+	border: 3px solid #c4a90c;
 	color: #080807;
 	border-radius: 5px !important;
 }
